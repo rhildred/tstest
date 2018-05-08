@@ -15,7 +15,7 @@ This is meant to be used to show the 3 basic coding primitives.
 
 ... Introduction to control structures with typescript. 
 
-Two lectures ago we spoke about programming in general terms. The foundational programming control structures were mentioned, these being selection, iteration and sequence:
+The foundational programming control structures are selection, iteration and sequence:
 
 ![oracle programming](http://docs.oracle.com/cd/A87860_01/doc/appdev.817/a77069/03_strua.gif "oracle programming")
 
@@ -46,7 +46,7 @@ while(x < 100){
 
 ```
 
-You can see this in action at [https://rhildred.github.io/javascriptscripting/ilovevivas.html](https://rhildred.github.io/javascriptscripting/ilovevivas.html). Of course this is much faster than me typing this over and over.
+Of course this is much faster than me typing this over and over.
 
 ##Selection
 
