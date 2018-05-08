@@ -9,6 +9,7 @@ To run this:
 1. install node.js <a href="https://nodejs.org/en/download/" target="_blank">from here.</a>
 1. `npm install -g typescript`
 1. `npm install -g ts-node`
+1. `git clone https://github.com/rhildred/tstest.git .`
 1. `npm install` to get the local dependencies for this project.
 
 This is meant to be used to show the 3 basic coding primitives.
